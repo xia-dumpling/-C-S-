@@ -1,0 +1,23 @@
+{
+    "server": {
+        "ip": "127.0.0.1",
+        "port": 6000
+    },
+    "client": {
+        "ip": "127.0.0.1",
+        "port": 6000
+    },
+    "mysql": {
+    "ip": "127.0.0.1",
+    "port": 3306,
+    "user": "root",
+    "password": "612612",
+    "dbname": "Project_DB"
+    },
+    "redis": {
+        "ip": "127.0.0.1",
+        "port": 6379
+        
+    },
+    "path": "/home/qin/桌面/myproject/download/"
+}
